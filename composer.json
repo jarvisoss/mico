@@ -1,0 +1,19 @@
+{
+    "name": "jarvisoss/mico",
+    "description": "Mico (PHP Framework for building microservices easy and comfortable)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mico\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "backendsamurai",
+            "email": "pokrivchakzvitalja@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
